@@ -40,3 +40,12 @@ GuideAR captures live video input from a camera and processes it using computer 
 ---
 
 ## Project Structure
+GuideAR/
+│
+├── GuideAR_app.py
+├── smart_appliance_guide.py
+├── washing_machine_live.py
+├── test_cam.py
+├── test_ocr_image.py
+├── requirements.txt
+└── README.md
